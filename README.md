@@ -5,31 +5,36 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
 ## Professional Experience
 
 - **Research Engineer**  
-  *Company Name* | *Location* | *Start Month Year* – Present  
+  *ISA Lyon* | *France* | *Sept. 2018* – Present  
   - Conducted in-depth data analysis to support research initiatives.
   - Developed and implemented machine learning models to enhance project outcomes.
   - Collaborated with cross-functional teams to integrate technological solutions.
 
 - **Data Analyst**  
-  *Company Name* | *Location* | *Start Month Year* – End Month Year  
+  *Solon - tech* | *France* | *Start Month Year* – End Month Year  
   - Analyzed large datasets to extract actionable insights.
   - Created data visualization tools to aid decision-making processes.
   - Automated data processing workflows to improve efficiency.
 
 ## Education
 
-- **Master of Science in Computer Science**  
-  *University Name* | *Year of Graduation*
+- **Doctor of Microelectronics and Artificial Intelligence**  
+  *University Claude Bernard, Lyon 1* | *march 2021*
+  
+- **Master of Science in Engineering Microtechnologies**  
+  *University of Le Mans* | *Sept. 2018*
 
-- **Bachelor of Science in Information Technology**  
-  *University Name* | *Year of Graduation*
+- **Bachelor of Networking for Telecommunications**  
+  *University of Nancy* | *June 2016*
 
 ## Skills
 
-- **Programming Languages**: Python, R, Java
-- **Data Analysis Tools**: SQL, Pandas, NumPy
+- **Programming Languages**: Python, C, C++, JavaScript, Elixir
+- **Data Analysis Tools**: SQL, Postgress, Pandas, NumPy, Power BI
 - **Machine Learning Frameworks**: TensorFlow, Scikit-Learn
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Framework**: ROS 2, Power BI, Django, MatLab
+- **Project management**: MS Project, Gantt Project, Trello
 - **Other**: Git, Docker, Agile Methodologies
 
 ## Projects
