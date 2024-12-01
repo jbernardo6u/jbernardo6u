@@ -1,7 +1,7 @@
 # Hi there 👋, José Bernardo
 
 As a Research Engineer with a robust data analysis and machine learning background, I am dedicated to leveraging technology to drive innovation and solve complex problems.
----
+
 ## Professional Experience
 
 - **Research Engineer**  
