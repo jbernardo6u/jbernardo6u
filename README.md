@@ -56,7 +56,7 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
 ## Contact
 
 - **Email**: [josebernardofisico@gmail.com](mailto:josebernardofisico@gmail.com)
-- **Tel**: [(+33(0)769352154](+33769352154)
+- **Tel**: [+33(0)769352154](+33769352154)
   
 ---
 
