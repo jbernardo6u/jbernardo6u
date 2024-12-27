@@ -16,10 +16,12 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
   - Collaborated with cross-functional teams to integrate technological solutions.
 
 - **Data Analyst**  
-  *Solon - tech* | *France* | *Start Month Year* – End Month Year  
+  *Solon - tech* | *France* | *Nov. 2020* – *Present*  
   - Analyzed large datasets to extract actionable insights.
   - Created data visualization tools to aid decision-making processes.
   - Automated data processing workflows to improve efficiency.
+  - Site web development : [www.solon-techn.com](www.solon-tech.com)
+  - App integration and team management
 
 ## Education
 
