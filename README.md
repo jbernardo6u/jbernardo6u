@@ -4,7 +4,7 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
 
 ## Professional Experience
 - **Project manager**  
-  *ABMI Groupe* | *France* | *jan. 2023* – *Present*  
+  *ABMI Groupe* | *France* | *Jan. 2023* – *Present*  
   - Conducted in-depth the project management.
   - Plan and monitor the project tasks.
   - Collaborated with cross-functional teams to integrate technological solutions.
