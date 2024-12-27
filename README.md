@@ -39,24 +39,24 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
 
 ## Projects
 
-- **Project Name**  
+- **CryptoLab**  
   *Brief description of the project, highlighting your role and the technologies used.*
 
-- **Project Name**  
+- **AFVIMA**  
   *Brief description of the project, highlighting your role and the technologies used.*
 
 ## Certifications
 
-- **Certification Name**  
-  *Issuing Organization* | *Year*
+- **Pompt engineering**  
+  *Google* | *2022*
 
-- **Certification Name**  
-  *Issuing Organization* | *Year*
+- **GenAI for SME**  
+ *Google & Coursera* | *2023*
 
 ## Contact
 
 - **Email**: [josebernardofisico@gmail.com](mailto:josebernardofisico@gmail.com)
-- **+33**: [0769352154](+33769352154)
+- **Tel**: [(+33(0)769352154](+33769352154)
   
 ---
 
