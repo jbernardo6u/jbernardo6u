@@ -3,9 +3,14 @@
 As a Research Engineer with a robust data analysis and machine learning background, I am dedicated to leveraging technology to drive innovation and solve complex problems.
 
 ## Professional Experience
-
+- **Project manager**  
+  *ABMI Groupe* | *France* | *jan. 2023* – *Present*  
+  - Conducted in-depth the project management.
+  - Plan and monitor the project tasks.
+  - Collaborated with cross-functional teams to integrate technological solutions.
+    
 - **Research Engineer**  
-  *ISA Lyon* | *France* | *Sept. 2018* – Present  
+  *ISA Lyon* | *France* | *Sept. 2018* – *March. 2022*  
   - Conducted in-depth data analysis to support research initiatives.
   - Developed and implemented machine learning models to enhance project outcomes.
   - Collaborated with cross-functional teams to integrate technological solutions.
