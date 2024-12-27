@@ -24,7 +24,7 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
 ## Education
 
 - **Doctor of Microelectronics and Artificial Intelligence**  
-  *University Claude Bernard, Lyon 1* | *march 2021*
+  *University Claude Bernard, Lyon 1* | *march 2022*
   
 - **Master of Science in Engineering Microtechnologies**  
   *University of Le Mans* | *Sept. 2018*
