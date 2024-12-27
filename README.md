@@ -20,7 +20,7 @@ As a Research Engineer with a robust data analysis and machine learning backgrou
   - Analyzed large datasets to extract actionable insights.
   - Created data visualization tools to aid decision-making processes.
   - Automated data processing workflows to improve efficiency.
-  - Site web development : [www.solon-techn.com](www.solon-tech.com)
+  - Site web development : [www.solon-tech.com](www.solon-tech.com)
   - App integration and team management
 
 ## Education
