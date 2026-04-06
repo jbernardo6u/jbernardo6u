@@ -78,7 +78,7 @@ Passionate about leveraging technology to drive innovation from robotics and mac
 - Generative AI for SMEs, Google and Coursera, 2023
 - Agile Project Management, Google and Coursera, 2025
 - Planning & management of project with SMART objects, Google and Coursera,  2025
-- Cross-Functional Project Management, ORSY, 2026
+- Cross-Functional Project Management, ORSYS, 2026
 
 ---
 
