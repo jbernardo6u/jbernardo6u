@@ -1,81 +1,98 @@
-# Hi there 👋, José Bernardo
 
-As a Research Engineer with a robust data analysis and machine learning background, I am dedicated to leveraging technology to drive innovation and solve complex problems.
+# Hi there, I'm José Bernardo
+
+**PhD in AI & Microelectronics | Research Engineer & Project Manager**
+Passionate about leveraging technology to drive innovation from robotics and machine learning to GenAI and fintech.
+
+---
+
+## About Me
+
+- Currently working on a robotic system for civil applications and a GenAI project in the finance domain
+- Continuously learning about communication, product strategy, and the art of selling ideas
+- Looking to collaborate on Fintech and AI-driven projects
+- Looking for support with Python frontend and UX development
+- Ask me about Machine Learning, Robotics (ROS 2), Data Analysis, or Project Management
+- Reach me at: josebernardofisico@gmail.com
+- Fun fact: Life is simple, but humans prefer to complicate everything.
+
+---
+
+## Tech Stack
+
+**Languages:** Python, C, C++, JavaScript, Elixir
+
+**Data & ML:** SQL, PostgreSQL, Pandas, NumPy, TensorFlow, Scikit-Learn, Power BI, Matplotlib, Seaborn, Tableau
+
+**Frameworks & Tools:** ROS 2, Django, MATLAB, Docker, Git, Agile/Scrum
+
+**Project Management:** MS Project, Gantt Project, Trello
+
+---
 
 ## Professional Experience
-- **Project manager**  
-  *ABMI Groupe* | *France* | *Jan. 2023* – *Present*  
-  - Conducted in-depth the project management.
-  - Plan and monitor the project tasks.
-  - Collaborated with cross-functional teams to integrate technological solutions.
-    
-- **Research Engineer**  
-  *ISA Lyon* | *France* | *Sept. 2018* – *March. 2022*  
-  - Conducted in-depth data analysis to support research initiatives.
-  - Developed and implemented machine learning models to enhance project outcomes.
-  - Collaborated with cross-functional teams to integrate technological solutions.
 
-- **Data Analyst**  
-  *Solon - tech* | *France* | *Nov. 2020* – *Present*  
-  - Analyzed large datasets to extract actionable insights.
-  - Created data visualization tools to aid decision-making processes.
-  - Automated data processing workflows to improve efficiency.
-  - Site web development : [www.solon-tech.com](www.solon-tech.com)
-  - App integration and team management
+**Project Manager** at ABMI Groupe, France (Jan 2023 to Present)
+- Led end-to-end project management for robotics and innovation projects in civil, vehicle, and medical domains
+- Planned, monitored, and reported on project tasks and milestones
+- Coordinated cross-functional teams to integrate technological solutions
+
+**Research Engineer** at ISA Lyon, France (Sept 2018 to Mar 2022)
+- Conducted in-depth data analysis to support research initiatives in microelectronics and AI
+- Developed and implemented machine learning models to enhance project outcomes
+- Collaborated with cross-functional teams to integrate cutting-edge technological solutions
+
+**Data Analyst** at Solon-tech, France (Nov 2020 to Present)
+- Analyzed large datasets to extract actionable business insights
+- Built data visualization tools and dashboards to support decision-making
+- Automated data processing workflows to improve team efficiency
+- Led web development for www.solon-tech.com and managed app integrations
+
+---
 
 ## Education
 
-- **Doctor of Microelectronics and Artificial Intelligence**  
-  *University Claude Bernard, Lyon 1* | *march 2022*
-  
-- **Master of Science in Engineering Microtechnologies**  
-  *University of Le Mans* | *Sept. 2018*
+- PhD in Microelectronics and Artificial Intelligence, University Claude Bernard Lyon 1, 2022
+- Master of Science in Engineering Microtechnologies, University of Le Mans, 2018
+- Bachelor of Networking for Telecommunications, University of Nancy, 2016
 
-- **Bachelor of Networking for Telecommunications**  
-  *University of Nancy* | *June 2016*
+---
 
-## Skills
+## Featured Projects
 
-- **Programming Languages**: Python, C, C++, JavaScript, Elixir
-- **Data Analysis Tools**: SQL, Postgress, Pandas, NumPy, Power BI
-- **Machine Learning Frameworks**: TensorFlow, Scikit-Learn
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Framework**: ROS 2, Power BI, Django, MatLab
-- **Project management**: MS Project, Gantt Project, Trello
-- **Other**: Git, Docker, Agile Methodologies
+**CryptoLab** - Automated crypto trading bot targeting altcoins on Binance. Built in Python with real-time signal processing and risk management strategies.
 
-## Projects
+**Financial Assistant** - A virtual financial assistant that helps users invest in the stock market by proposing data-driven strategies based on in-depth company analysis.
 
-- **CryptoLab**  
-  *Brief description of the project, highlighting your role and the technologies used.*
+**Stewart Platform Control** - Full software stack for controlling a Stewart platform (hexapod) using dual IMU MPU-9250 sensors. Built with ROS 2 and C++.
 
-- **AFVIMA**  
-  *Brief description of the project, highlighting your role and the technologies used.*
+**Robot Teleoperation System** - A teleoperation system enabling remote control and monitoring of robotic platforms for civil and industrial applications.
+
+**AFVIMA** - AI-assisted vehicle monitoring and management application combining computer vision and embedded systems.
+
+---
 
 ## Certifications
 
-- **Pompt engineering**  
-  *Google* | *2022*
+- Prompt Engineering, Google, 2022
+- Generative AI for SMEs, Google and Coursera, 2023
 
-- **GenAI for SME**  
- *Google & Coursera* | *2023*
-
-## Contact
-
-- **Email**: [josebernardofisico@gmail.com](mailto:josebernardofisico@gmail.com)
-- **Tel**: [+33(0)769352154](+33769352154)
-  
 ---
 
-### Here are some ideas to get you a quick overview of myself
+## GitHub Stats
 
-- 🔭 I’m currently working on a robotic project for civil applications, as well as a GenAI project in the finance domain.
-- 🌱 I’m currently learning communication and the art of selling anything
-- 👯 I’m looking to collaborate on a Fintech project
-- 🤔 I’m looking for help with Python frontend and UX development
-- 💬 Ask me about [something?](mailto:josebernardofisico@gmail.com)
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jose-bernardo-research-engineer/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/jbernardo6u) [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/jb_bantu/)
-- 😄 Pronouns: j_Bantu
-- ⚡ Fun fact: Life is simple but humans prefer to complicate everything.
----  
-*This overview provides a snapshot of my professional background and expertise. Please visit my [LinkedIn profile](https://www.linkedin.com/in/jose-bernardo-research-engineer/).*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbernardo6u&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbernardo6u&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/jose-bernardo-research-engineer
+- Twitter: https://twitter.com/JosProfeta9397
+- Instagram: https://www.instagram.com/jb_bantu
+- Website: https://jbernardo6u.github.io/Hello_world/#Home-page
+
+---
+
+This profile provides a snapshot of my professional background. Feel free to explore my repositories and reach out!
