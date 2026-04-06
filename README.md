@@ -91,7 +91,7 @@ Passionate about leveraging technology to drive innovation from robotics and mac
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/jose-bernardo-research-engineer
+- LinkedIn: https://www.linkedin.com/in/jose-bernardo-rd-pm/
 - Twitter: https://twitter.com/JosProfeta9397
 - Instagram: https://www.instagram.com/jb_bantu
 - Website: https://jbernardo6u.github.io/Hello_world/#Home-page
