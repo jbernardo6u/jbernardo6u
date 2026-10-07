@@ -1,101 +1,48 @@
+# Hi, I'm José BERNARDO 👋
 
-# Hi there, I'm José Bernardo
+**R&D Project Manager in Robotics & Embedded AI.**
+I lead innovation projects from concept to test bench — simulation, perception, control and hardware integration.
 
-**PhD in AI & Microelectronics | Research Engineer & Project Manager**
-Passionate about leveraging technology to drive innovation from robotics and machine learning to GenAI and fintech.
+### 🔧 What I work on
 
----
+- **Sim-to-real manipulation** — pick-and-place on a 6-DoF arm, comparing a Gazebo digital twin against the physical robot
+- **Vision-based pose estimation** — camera calibration, ArUco markers, 6-DoF pose recovery with OpenCV
+- **Motion platforms & bench validation** — test benches and experimental protocols to measure what a system really does
+- **Edge AI for robotics** — camera streaming and on-device inference on NVIDIA Jetson
 
-## About Me
+### 🛠️ Tech stack
 
-- Currently working on a robotic system for civil applications and a GenAI project in the finance domain
-- Continuously learning about communication, product strategy, and the art of selling ideas
-- Looking to collaborate on Fintech and AI-driven projects
-- Looking for support with Python frontend and UX development
-- Ask me about Machine Learning, Robotics (ROS 2), Data Analysis, or Project Management
-- Reach me at: josebernardofisico@gmail.com
-- Fun fact: Life is simple, but humans prefer to complicate everything.
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-5A9E2F)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
+### 📌 Featured projects
 
-## Tech Stack
+| Project | What it shows | Link |
+|---|---|---|
+| Pick-and-place: Gazebo vs real myCobot 320 Pi | Sim-to-real manipulation with ROS 2, a Gazebo digital twin and the physical arm | <!-- TODO: repository link --> _coming soon_ |
+| ArUco 6-DoF pose estimation & camera calibration | Intrinsic/extrinsic calibration and marker-based pose estimation with OpenCV | <!-- TODO: repository link --> _coming soon_ |
+| Jetson Orin Nano camera streaming & edge inference | Low-latency camera pipeline and on-device inference on NVIDIA Jetson | <!-- TODO: repository link --> _coming soon_ |
 
-**Languages:** Python, C, C++, JavaScript, Elixir
+### 🤝 Beyond code
 
-**Data & ML:** SQL, PostgreSQL, Pandas, NumPy, TensorFlow, Scikit-Learn, Power BI, Matplotlib, Seaborn, Tableau
+- Steering R&D projects end to end
+- Designing experimental plans and test protocols
+- Building technical roadmaps
+- Mentoring interns
 
-**Frameworks & Tools:** ROS 2, Django, MATLAB, Docker, Git, Agile/Scrum
+### 📫 Contact
 
-**Project Management:** MS Project, Gantt Project, Trello
+- LinkedIn: [jose-bernardo-rd-pm](https://www.linkedin.com/in/jose-bernardo-rd-pm/)
+- 📍 Marseille, France
 
----
-
-## Professional Experience
-
-**Project Manager** at ABMI Groupe, France (Jan 2023 to Present)
-- Led end-to-end project management for robotics and innovation projects in civil, vehicle, and medical domains
-- Planned, monitored, and reported on project tasks and milestones
-- Coordinated cross-functional teams to integrate technological solutions
-
-**Research Engineer** at ISA Lyon, France (Sept 2018 to Mar 2022)
-- Conducted in-depth data analysis to support research initiatives in microelectronics and AI
-- Developed and implemented machine learning models to enhance project outcomes
-- Collaborated with cross-functional teams to integrate cutting-edge technological solutions
-
-**Data Analyst** at Solon-tech, France (Nov 2020 to Present)
-- Analyzed large datasets to extract actionable business insights
-- Built data visualization tools and dashboards to support decision-making
-- Automated data processing workflows to improve team efficiency
-- Led web development for www.solon-tech.com and managed app integrations
-
----
-
-## Education
-
-- PhD in Microelectronics and Artificial Intelligence, University Claude Bernard Lyon 1, 2022
-- Master of Science in Engineering Microtechnologies, University of Le Mans, 2018
-- Bachelor of Networking for Telecommunications, University of Nancy, 2016
-
----
-
-## Featured Projects
-
-**CryptoLab** - Automated crypto trading bot targeting altcoins on Binance. Built in Python with real-time signal processing and risk management strategies.
-
-**Financial Assistant** - A virtual financial assistant that helps users invest in the stock market by proposing data-driven strategies based on in-depth company analysis.
-
-**Stewart Platform Control** - Full software stack for controlling a Stewart platform (hexapod) using dual IMU MPU-9250 sensors. Built with ROS 2 and C++.
-
-**Robot Teleoperation System** - A teleoperation system enabling remote control and monitoring of robotic platforms for civil and industrial applications.
-
-**AFVIMA** - AI-assisted vehicle monitoring and management application combining computer vision and embedded systems.
-
----
-
-## Certifications
-
-- Prompt Engineering, Google, 2022
-- Generative AI for SMEs, Google and Coursera, 2023
-- Agile Project Management, Google and Coursera, 2025
-- Planning & management of project with SMART objects, Google and Coursera,  2025
-- Cross-Functional Project Management, ORSYS, 2026
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbernardo6u&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbernardo6u&layout=compact&theme=dark&hide_border=true)
-
----
-
-## Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/jose-bernardo-rd-pm/
-- Twitter: https://twitter.com/JosProfeta9397
-- Instagram: https://www.instagram.com/jb_bantu
-- Website: https://jbernardo6u.github.io/Hello_world/#Home-page
-
----
-
-This profile provides a snapshot of my professional background. Feel free to explore my repositories and reach out!
+<!-- Optional GitHub stats card — uncomment to enable:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbernardo6u&show_icons=true&hide_border=true)
+-->
