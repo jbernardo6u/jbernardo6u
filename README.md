@@ -5,7 +5,7 @@
 **I lead robotics and embedded-AI innovation projects from concept to test bench —**
 **simulation, perception, control and hardware integration.**
 
-📍 Marseille, France &nbsp;·&nbsp; 🎓 PhD in AI & Microelectronics &nbsp;·&nbsp; 🤖 ROS 2 · Computer Vision · Edge AI
+📍 Lyon, France &nbsp;·&nbsp; 🎓 PhD in AI & Microelectronics &nbsp;·&nbsp; 🤖 ROS 2 · Computer Vision · AI
 
 <a href="https://www.linkedin.com/in/jose-bernardo-rd-pm/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 
